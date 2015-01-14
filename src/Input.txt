@@ -1,0 +1,30 @@
+Number of light sources:
+1
+Position of light source1:
+200
+300
+0
+Strength of light source1:
+400
+Number of big cubes:
+1
+Center of big cube1:
+0
+0
+0
+size of big cube1:
+150
+number of cubes on the side of cube1:
+10
+Number of ground:
+1
+Resolution of the ground:
+25
+Position of the ground:
+-150
+Shadow On or Off:
+0
+Number of threads:
+6
+Resolution of the World, smaller the better:
+5

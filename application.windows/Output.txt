@@ -1,0 +1,3488 @@
+Light source(s) is probably generated correctly
+Big Cube(s) is probably generated correctly
+Ground is probably generated correctly
+Shadow is probably configured correctly
+Total Number of PCubes: 1739
+The Lightsources are at:
+X: 200.0 Y: 300.0 Z: 2.0E-4
+The Shadow is turned off
+Cube: Center: X: -383.99954 Y: -182.0 Z: -384.00043 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99957 Y: -182.0 Z: -384.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99966 Y: -182.0 Z: -384.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99956 Y: -182.0 Z: -384.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.9997 Y: -182.0 Z: -384.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99966 Y: -182.0 Z: -384.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99953 Y: -182.0 Z: -384.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99963 Y: -182.0 Z: -384.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.99954 Y: -182.0 Z: -384.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.999664 Y: -182.0 Z: -384.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999653 Y: -182.0 Z: -384.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999666 Y: -182.0 Z: -384.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 3.707901E-4 Y: -182.0 Z: -384.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000385 Y: -182.0 Z: -383.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.000374 Y: -182.0 Z: -383.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00035 Y: -182.0 Z: -383.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00038 Y: -182.0 Z: -383.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00035 Y: -182.0 Z: -383.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00035 Y: -182.0 Z: -383.99982 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00037 Y: -182.0 Z: -383.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00037 Y: -182.0 Z: -383.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.0004 Y: -182.0 Z: -383.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.0004 Y: -182.0 Z: -383.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.00037 Y: -182.0 Z: -383.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00037 Y: -182.0 Z: -383.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99957 Y: -182.0 Z: -352.00046 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.9996 Y: -182.0 Z: -352.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.9996 Y: -182.0 Z: -352.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.9996 Y: -182.0 Z: -352.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99966 Y: -182.0 Z: -352.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.9996 Y: -182.0 Z: -352.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99954 Y: -182.0 Z: -352.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99966 Y: -182.0 Z: -352.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.99966 Y: -182.0 Z: -352.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.99969 Y: -182.0 Z: -352.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999638 Y: -182.0 Z: -352.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999733 Y: -182.0 Z: -352.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 3.3989092E-4 Y: -182.0 Z: -352.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00034 Y: -182.0 Z: -351.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.00035 Y: -182.0 Z: -351.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00032 Y: -182.0 Z: -351.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00034 Y: -182.0 Z: -351.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00034 Y: -182.0 Z: -351.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00035 Y: -182.0 Z: -351.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00035 Y: -182.0 Z: -351.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00037 Y: -182.0 Z: -351.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.00037 Y: -182.0 Z: -351.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.00037 Y: -182.0 Z: -351.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.00034 Y: -182.0 Z: -351.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00034 Y: -182.0 Z: -351.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99963 Y: -182.0 Z: -320.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99973 Y: -182.0 Z: -320.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99963 Y: -182.0 Z: -320.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99965 Y: -182.0 Z: -320.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99966 Y: -182.0 Z: -320.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99966 Y: -182.0 Z: -320.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99962 Y: -182.0 Z: -320.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99971 Y: -182.0 Z: -320.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.99973 Y: -182.0 Z: -320.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999615 Y: -182.0 Z: -320.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.999664 Y: -182.0 Z: -320.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999641 Y: -182.0 Z: -320.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 3.0899173E-4 Y: -182.0 Z: -320.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000317 Y: -182.0 Z: -319.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00029 Y: -182.0 Z: -319.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.0003 Y: -182.0 Z: -319.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00029 Y: -182.0 Z: -319.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00029 Y: -182.0 Z: -319.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.0003 Y: -182.0 Z: -319.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00034 Y: -182.0 Z: -319.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00032 Y: -182.0 Z: -319.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.0003 Y: -182.0 Z: -319.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.0003 Y: -182.0 Z: -319.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.0003 Y: -182.0 Z: -319.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00034 Y: -182.0 Z: -319.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.9997 Y: -182.0 Z: -288.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99973 Y: -182.0 Z: -288.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.9997 Y: -182.0 Z: -288.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99973 Y: -182.0 Z: -288.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99966 Y: -182.0 Z: -288.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99963 Y: -182.0 Z: -288.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99973 Y: -182.0 Z: -288.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99976 Y: -182.0 Z: -288.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.999725 Y: -182.0 Z: -288.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.99974 Y: -182.0 Z: -288.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999718 Y: -182.0 Z: -288.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999722 Y: -182.0 Z: -288.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000263 Y: -182.0 Z: -288.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 2.7809257E-4 Y: -182.0 Z: -288.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00026 Y: -182.0 Z: -287.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00028 Y: -182.0 Z: -287.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00026 Y: -182.0 Z: -287.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00027 Y: -182.0 Z: -287.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00029 Y: -182.0 Z: -287.99982 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.0003 Y: -182.0 Z: -287.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00027 Y: -182.0 Z: -287.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.0003 Y: -182.0 Z: -287.99973 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.00027 Y: -182.0 Z: -287.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.0003 Y: -182.0 Z: -287.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.0003 Y: -182.0 Z: -287.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.9997 Y: -182.0 Z: -256.00043 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99973 Y: -182.0 Z: -256.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99973 Y: -182.0 Z: -256.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99973 Y: -182.0 Z: -256.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99971 Y: -182.0 Z: -256.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99973 Y: -182.0 Z: -256.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.9998 Y: -182.0 Z: -256.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.999695 Y: -182.0 Z: -256.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99979 Y: -182.0 Z: -256.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.99967 Y: -182.0 Z: -256.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.99969 Y: -182.0 Z: -256.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999714 Y: -182.0 Z: -256.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 2.4719338E-4 Y: -182.0 Z: -256.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000256 Y: -182.0 Z: -255.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00023 Y: -182.0 Z: -255.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00023 Y: -182.0 Z: -255.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.000244 Y: -182.0 Z: -255.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00024 Y: -182.0 Z: -255.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00026 Y: -182.0 Z: -255.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00026 Y: -182.0 Z: -255.99977 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00024 Y: -182.0 Z: -255.99974 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.00024 Y: -182.0 Z: -255.99971 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.00024 Y: -182.0 Z: -255.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.00027 Y: -182.0 Z: -255.99965 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00024 Y: -182.0 Z: -255.99962 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99976 Y: -182.0 Z: -224.00041 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99973 Y: -182.0 Z: -224.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.9998 Y: -182.0 Z: -224.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99976 Y: -182.0 Z: -224.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99976 Y: -182.0 Z: -224.00026 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.9998 Y: -182.0 Z: -224.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99974 Y: -182.0 Z: -224.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99979 Y: -182.0 Z: -224.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.99975 Y: -182.0 Z: -224.00014 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.999825 Y: -182.0 Z: -224.00008 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.99971 Y: -182.0 Z: -224.00008 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999817 Y: -182.0 Z: -224.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 2.1629423E-4 Y: -182.0 Z: -224.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.00021 Y: -182.0 Z: -223.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00021 Y: -182.0 Z: -223.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00022 Y: -182.0 Z: -223.99991 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00023 Y: -182.0 Z: -223.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00023 Y: -182.0 Z: -223.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00023 Y: -182.0 Z: -223.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00023 Y: -182.0 Z: -223.99979 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00024 Y: -182.0 Z: -223.99974 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.00024 Y: -182.0 Z: -223.99971 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.0002 Y: -182.0 Z: -223.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.0002 Y: -182.0 Z: -223.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.0002 Y: -182.0 Z: -223.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.9998 Y: -182.0 Z: -192.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99982 Y: -182.0 Z: -192.00038 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.9998 Y: -182.0 Z: -192.00035 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.9998 Y: -182.0 Z: -192.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99982 Y: -182.0 Z: -192.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.9998 Y: -182.0 Z: -192.00023 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99977 Y: -182.0 Z: -192.00021 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99983 Y: -182.0 Z: -192.00014 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.99983 Y: -182.0 Z: -192.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.99976 Y: -182.0 Z: -192.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999832 Y: -182.0 Z: -192.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999826 Y: -182.0 Z: -192.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 1.8539505E-4 Y: -182.0 Z: -192.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000187 Y: -182.0 Z: -191.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00019 Y: -182.0 Z: -191.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.000175 Y: -182.0 Z: -191.99991 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00018 Y: -182.0 Z: -191.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.0002 Y: -182.0 Z: -191.99983 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00018 Y: -182.0 Z: -191.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.0002 Y: -182.0 Z: -191.99977 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00018 Y: -182.0 Z: -191.99974 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.0002 Y: -182.0 Z: -191.99973 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.00018 Y: -182.0 Z: -191.99968 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.0002 Y: -182.0 Z: -191.99965 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00018 Y: -182.0 Z: -191.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99985 Y: -182.0 Z: -160.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99985 Y: -182.0 Z: -160.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99982 Y: -182.0 Z: -160.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99985 Y: -182.0 Z: -160.00029 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99983 Y: -182.0 Z: -160.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99985 Y: -182.0 Z: -160.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99982 Y: -182.0 Z: -160.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99986 Y: -182.0 Z: -160.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.999825 Y: -182.0 Z: -160.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.999855 Y: -182.0 Z: -160.00008 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999866 Y: -182.0 Z: -160.00005 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999807 Y: -182.0 Z: -160.00005 size: 32.0
+is lit up by all lights
+Cube: Center: X: 1.5449586E-4 Y: -182.0 Z: -160.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000145 Y: -182.0 Z: -159.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.000145 Y: -182.0 Z: -159.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00015 Y: -182.0 Z: -159.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00017 Y: -182.0 Z: -159.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00015 Y: -182.0 Z: -159.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00017 Y: -182.0 Z: -159.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00017 Y: -182.0 Z: -159.99979 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00015 Y: -182.0 Z: -159.99973 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.00018 Y: -182.0 Z: -159.99971 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.00015 Y: -182.0 Z: -159.99968 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.00015 Y: -182.0 Z: -159.99965 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00015 Y: -182.0 Z: -159.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99985 Y: -182.0 Z: -128.00043 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99985 Y: -182.0 Z: -128.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99988 Y: -182.0 Z: -128.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99988 Y: -182.0 Z: -128.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99988 Y: -182.0 Z: -128.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99986 Y: -182.0 Z: -128.00026 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99985 Y: -182.0 Z: -128.00021 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99986 Y: -182.0 Z: -128.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.999855 Y: -182.0 Z: -128.00014 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.9999 Y: -182.0 Z: -128.00008 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999847 Y: -182.0 Z: -128.00008 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999846 Y: -182.0 Z: -128.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 1.2359669E-4 Y: -182.0 Z: -128.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000114 Y: -182.0 Z: -127.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.000114 Y: -182.0 Z: -127.99995 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00013 Y: -182.0 Z: -127.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00012 Y: -182.0 Z: -127.99987 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00012 Y: -182.0 Z: -127.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00012 Y: -182.0 Z: -127.99981 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00012 Y: -182.0 Z: -127.99978 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00012 Y: -182.0 Z: -127.99974 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.00012 Y: -182.0 Z: -127.99971 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.00012 Y: -182.0 Z: -127.99968 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.00012 Y: -182.0 Z: -127.99964 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00012 Y: -182.0 Z: -127.99961 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.9999 Y: -182.0 Z: -96.000404 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99988 Y: -182.0 Z: -96.00038 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.9999 Y: -182.0 Z: -96.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99988 Y: -182.0 Z: -96.00032 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.9999 Y: -182.0 Z: -96.000244 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99991 Y: -182.0 Z: -96.00022 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.9999 Y: -182.0 Z: -96.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.9999 Y: -182.0 Z: -96.000175 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.99991 Y: -182.0 Z: -96.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.999886 Y: -182.0 Z: -96.00011 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999916 Y: -182.0 Z: -96.00005 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999916 Y: -182.0 Z: -96.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 9.2697526E-5 Y: -182.0 Z: -96.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000095 Y: -182.0 Z: -95.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00009 Y: -182.0 Z: -95.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00009 Y: -182.0 Z: -95.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00009 Y: -182.0 Z: -95.99987 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00009 Y: -182.0 Z: -95.99984 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00009 Y: -182.0 Z: -95.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.0001 Y: -182.0 Z: -95.99977 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.0001 Y: -182.0 Z: -95.99974 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.0001 Y: -182.0 Z: -95.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.0001 Y: -182.0 Z: -95.99969 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.0001 Y: -182.0 Z: -95.99965 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.0001 Y: -182.0 Z: -95.99962 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99994 Y: -182.0 Z: -64.00043 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99994 Y: -182.0 Z: -64.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99994 Y: -182.0 Z: -64.000336 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99994 Y: -182.0 Z: -64.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99992 Y: -182.0 Z: -64.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99994 Y: -182.0 Z: -64.00021 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99992 Y: -182.0 Z: -64.00021 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99994 Y: -182.0 Z: -64.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.99994 Y: -182.0 Z: -64.00014 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.99992 Y: -182.0 Z: -64.00011 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999928 Y: -182.0 Z: -64.00007 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999924 Y: -182.0 Z: -64.00004 size: 32.0
+is lit up by all lights
+Cube: Center: X: 6.1798346E-5 Y: -182.0 Z: -64.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000057 Y: -182.0 Z: -63.999973 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00006 Y: -182.0 Z: -63.999935 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00006 Y: -182.0 Z: -63.999905 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00006 Y: -182.0 Z: -63.99987 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00006 Y: -182.0 Z: -63.99984 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00006 Y: -182.0 Z: -63.999805 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00006 Y: -182.0 Z: -63.999775 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00006 Y: -182.0 Z: -63.999744 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.00006 Y: -182.0 Z: -63.999714 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.00006 Y: -182.0 Z: -63.999683 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.00006 Y: -182.0 Z: -63.99965 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00006 Y: -182.0 Z: -63.99962 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99997 Y: -182.0 Z: -32.000435 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99994 Y: -182.0 Z: -32.00036 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99994 Y: -182.0 Z: -32.000355 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99997 Y: -182.0 Z: -32.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99997 Y: -182.0 Z: -32.000286 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99997 Y: -182.0 Z: -32.000214 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99997 Y: -182.0 Z: -32.000214 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99997 Y: -182.0 Z: -32.000168 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.99996 Y: -182.0 Z: -32.000134 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.99996 Y: -182.0 Z: -32.000107 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.99997 Y: -182.0 Z: -32.00007 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999964 Y: -182.0 Z: -32.000034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 3.0899173E-5 Y: -182.0 Z: -32.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.00003 Y: -182.0 Z: -31.999968 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00003 Y: -182.0 Z: -31.999935 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00003 Y: -182.0 Z: -31.999903 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00003 Y: -182.0 Z: -31.999872 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00003 Y: -182.0 Z: -31.999842 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00003 Y: -182.0 Z: -31.99981 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00003 Y: -182.0 Z: -31.999779 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00003 Y: -182.0 Z: -31.999744 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.00006 Y: -182.0 Z: -31.999714 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.00003 Y: -182.0 Z: -31.99968 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.00003 Y: -182.0 Z: -31.999647 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00003 Y: -182.0 Z: -31.999619 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.0 Y: -182.0 Z: -3.9978127E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.0 Y: -182.0 Z: -3.6646618E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.0 Y: -182.0 Z: -3.3315108E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.0 Y: -182.0 Z: -2.9983596E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.0 Y: -182.0 Z: -2.6652086E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.0 Y: -182.0 Z: -2.3320575E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.0 Y: -182.0 Z: -1.9989064E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.0 Y: -182.0 Z: -1.6657554E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.0 Y: -182.0 Z: -1.3326043E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.0 Y: -182.0 Z: -9.994532E-5 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.0 Y: -182.0 Z: -6.6630215E-5 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.0 Y: -182.0 Z: -3.3315107E-5 size: 32.0
+is lit up by all lights
+Cube: Center: X: 0.0 Y: -182.0 Z: -0.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.0 Y: -182.0 Z: 3.2E-5 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.0 Y: -182.0 Z: 6.4E-5 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.0 Y: -182.0 Z: 9.5999996E-5 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.0 Y: -182.0 Z: 1.28E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.0 Y: -182.0 Z: 1.6E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.0 Y: -182.0 Z: 1.9199999E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.0 Y: -182.0 Z: 2.24E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.0 Y: -182.0 Z: 2.56E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.0 Y: -182.0 Z: 2.88E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.0 Y: -182.0 Z: 3.2E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.0 Y: -182.0 Z: 3.52E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.0 Y: -182.0 Z: 3.8399998E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.00003 Y: -182.0 Z: 31.999622 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.00003 Y: -182.0 Z: 31.999636 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.00003 Y: -182.0 Z: 31.999695 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00006 Y: -182.0 Z: 31.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00003 Y: -182.0 Z: 31.999746 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00003 Y: -182.0 Z: 31.999754 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00003 Y: -182.0 Z: 31.999813 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00003 Y: -182.0 Z: 31.999834 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00003 Y: -182.0 Z: 31.999866 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00003 Y: -182.0 Z: 31.999908 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.00004 Y: -182.0 Z: 31.999933 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.00003 Y: -182.0 Z: 31.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -3.191634E-5 Y: -182.0 Z: 32.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999966 Y: -182.0 Z: 32.000034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.99997 Y: -182.0 Z: 32.000065 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99997 Y: -182.0 Z: 32.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99996 Y: -182.0 Z: 32.000126 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99997 Y: -182.0 Z: 32.00016 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99997 Y: -182.0 Z: 32.00019 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99997 Y: -182.0 Z: 32.000225 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99997 Y: -182.0 Z: 32.000256 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99997 Y: -182.0 Z: 32.00029 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.99997 Y: -182.0 Z: 32.000317 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99994 Y: -182.0 Z: 32.00035 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.99997 Y: -182.0 Z: 32.000385 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.00006 Y: -182.0 Z: 63.99961 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.00006 Y: -182.0 Z: 63.999626 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.00006 Y: -182.0 Z: 63.99967 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00006 Y: -182.0 Z: 63.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00006 Y: -182.0 Z: 63.999733 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00008 Y: -182.0 Z: 63.99975 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00006 Y: -182.0 Z: 63.999817 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00008 Y: -182.0 Z: 63.999817 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00008 Y: -182.0 Z: 63.999866 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00006 Y: -182.0 Z: 63.99991 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.00006 Y: -182.0 Z: 63.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.000057 Y: -182.0 Z: 63.999973 size: 32.0
+is lit up by all lights
+Cube: Center: X: -6.383268E-5 Y: -182.0 Z: 64.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999937 Y: -182.0 Z: 64.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.99993 Y: -182.0 Z: 64.00007 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99993 Y: -182.0 Z: 64.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99994 Y: -182.0 Z: 64.00013 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99994 Y: -182.0 Z: 64.00017 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99994 Y: -182.0 Z: 64.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99994 Y: -182.0 Z: 64.00023 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99992 Y: -182.0 Z: 64.00025 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99994 Y: -182.0 Z: 64.00029 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.99994 Y: -182.0 Z: 64.00032 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99994 Y: -182.0 Z: 64.00035 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.99994 Y: -182.0 Z: 64.00038 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.0001 Y: -182.0 Z: 95.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.0001 Y: -182.0 Z: 95.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.0001 Y: -182.0 Z: 95.99972 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.0001 Y: -182.0 Z: 95.99972 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.0001 Y: -182.0 Z: 95.99972 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.0001 Y: -182.0 Z: 95.999756 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00009 Y: -182.0 Z: 95.999794 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00009 Y: -182.0 Z: 95.99984 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.0001 Y: -182.0 Z: 95.999855 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00009 Y: -182.0 Z: 95.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.00009 Y: -182.0 Z: 95.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.000103 Y: -182.0 Z: 95.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -9.574903E-5 Y: -182.0 Z: 96.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999912 Y: -182.0 Z: 96.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.9999 Y: -182.0 Z: 96.00007 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99989 Y: -182.0 Z: 96.00009 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.9999 Y: -182.0 Z: 96.00013 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.9999 Y: -182.0 Z: 96.00016 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.9999 Y: -182.0 Z: 96.00019 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99991 Y: -182.0 Z: 96.00023 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.9999 Y: -182.0 Z: 96.00026 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99988 Y: -182.0 Z: 96.00029 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.9999 Y: -182.0 Z: 96.000336 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.9999 Y: -182.0 Z: 96.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.9999 Y: -182.0 Z: 96.00039 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.00012 Y: -182.0 Z: 127.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.00015 Y: -182.0 Z: 127.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.00012 Y: -182.0 Z: 127.999664 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00012 Y: -182.0 Z: 127.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00015 Y: -182.0 Z: 127.99973 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00012 Y: -182.0 Z: 127.99979 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00012 Y: -182.0 Z: 127.99982 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00012 Y: -182.0 Z: 127.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00012 Y: -182.0 Z: 127.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00014 Y: -182.0 Z: 127.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.000114 Y: -182.0 Z: 127.99995 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.000126 Y: -182.0 Z: 127.99996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -1.2766536E-4 Y: -182.0 Z: 128.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999872 Y: -182.0 Z: 128.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.999874 Y: -182.0 Z: 128.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99987 Y: -182.0 Z: 128.00009 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99986 Y: -182.0 Z: 128.00014 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99986 Y: -182.0 Z: 128.00017 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99986 Y: -182.0 Z: 128.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99986 Y: -182.0 Z: 128.00023 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99988 Y: -182.0 Z: 128.00026 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99988 Y: -182.0 Z: 128.00029 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.99988 Y: -182.0 Z: 128.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99985 Y: -182.0 Z: 128.00035 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.99988 Y: -182.0 Z: 128.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.00018 Y: -182.0 Z: 159.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.00015 Y: -182.0 Z: 159.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.00015 Y: -182.0 Z: 159.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00018 Y: -182.0 Z: 159.99968 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00018 Y: -182.0 Z: 159.99971 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00018 Y: -182.0 Z: 159.99977 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00017 Y: -182.0 Z: 159.99977 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00015 Y: -182.0 Z: 159.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00015 Y: -182.0 Z: 159.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00019 Y: -182.0 Z: 159.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.00016 Y: -182.0 Z: 159.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.00016 Y: -182.0 Z: 159.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -1.5958172E-4 Y: -182.0 Z: 160.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999842 Y: -182.0 Z: 160.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.999844 Y: -182.0 Z: 160.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99985 Y: -182.0 Z: 160.00008 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99984 Y: -182.0 Z: 160.00014 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99983 Y: -182.0 Z: 160.00017 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99985 Y: -182.0 Z: 160.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99983 Y: -182.0 Z: 160.00023 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99983 Y: -182.0 Z: 160.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99985 Y: -182.0 Z: 160.00029 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.99985 Y: -182.0 Z: 160.00032 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99985 Y: -182.0 Z: 160.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.99985 Y: -182.0 Z: 160.00038 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.00018 Y: -182.0 Z: 191.99959 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.0002 Y: -182.0 Z: 191.99965 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.00018 Y: -182.0 Z: 191.99968 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.0002 Y: -182.0 Z: 191.99971 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00018 Y: -182.0 Z: 191.99973 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.0002 Y: -182.0 Z: 191.99977 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00018 Y: -182.0 Z: 191.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.0002 Y: -182.0 Z: 191.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00018 Y: -182.0 Z: 191.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00017 Y: -182.0 Z: 191.99991 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.000206 Y: -182.0 Z: 191.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.000202 Y: -182.0 Z: 191.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -1.9149805E-4 Y: -182.0 Z: 192.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.99982 Y: -182.0 Z: 192.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.999825 Y: -182.0 Z: 192.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99981 Y: -182.0 Z: 192.00009 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.9998 Y: -182.0 Z: 192.00014 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99982 Y: -182.0 Z: 192.00017 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99979 Y: -182.0 Z: 192.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.9998 Y: -182.0 Z: 192.00023 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.9998 Y: -182.0 Z: 192.00026 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99982 Y: -182.0 Z: 192.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.9998 Y: -182.0 Z: 192.00032 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99982 Y: -182.0 Z: 192.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.9998 Y: -182.0 Z: 192.00038 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.0002 Y: -182.0 Z: 223.99962 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.00024 Y: -182.0 Z: 223.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.0002 Y: -182.0 Z: 223.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00024 Y: -182.0 Z: 223.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00027 Y: -182.0 Z: 223.99971 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00024 Y: -182.0 Z: 223.99979 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00021 Y: -182.0 Z: 223.99979 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.0002 Y: -182.0 Z: 223.99986 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00021 Y: -182.0 Z: 223.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00024 Y: -182.0 Z: 223.99991 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.00023 Y: -182.0 Z: 223.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.00023 Y: -182.0 Z: 223.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -2.234144E-4 Y: -182.0 Z: 224.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999783 Y: -182.0 Z: 224.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.999783 Y: -182.0 Z: 224.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.999794 Y: -182.0 Z: 224.00009 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.999794 Y: -182.0 Z: 224.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99977 Y: -182.0 Z: 224.00017 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99977 Y: -182.0 Z: 224.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99977 Y: -182.0 Z: 224.00023 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99979 Y: -182.0 Z: 224.00026 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.9998 Y: -182.0 Z: 224.00029 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.9998 Y: -182.0 Z: 224.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99976 Y: -182.0 Z: 224.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.99976 Y: -182.0 Z: 224.00038 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.00024 Y: -182.0 Z: 255.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.00027 Y: -182.0 Z: 255.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.00024 Y: -182.0 Z: 255.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00024 Y: -182.0 Z: 255.99971 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00024 Y: -182.0 Z: 255.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00026 Y: -182.0 Z: 255.99979 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00027 Y: -182.0 Z: 255.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00026 Y: -182.0 Z: 255.99983 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00023 Y: -182.0 Z: 255.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00027 Y: -182.0 Z: 255.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.00025 Y: -182.0 Z: 255.99992 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.00028 Y: -182.0 Z: 255.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -2.5533073E-4 Y: -182.0 Z: 256.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999765 Y: -182.0 Z: 256.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.999744 Y: -182.0 Z: 256.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.999756 Y: -182.0 Z: 256.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99975 Y: -182.0 Z: 256.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99976 Y: -182.0 Z: 256.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99974 Y: -182.0 Z: 256.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99974 Y: -182.0 Z: 256.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99973 Y: -182.0 Z: 256.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99973 Y: -182.0 Z: 256.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.99973 Y: -182.0 Z: 256.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99976 Y: -182.0 Z: 256.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.99973 Y: -182.0 Z: 256.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.0003 Y: -182.0 Z: 287.99957 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.0003 Y: -182.0 Z: 287.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.0003 Y: -182.0 Z: 287.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00027 Y: -182.0 Z: 287.99973 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00027 Y: -182.0 Z: 287.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00032 Y: -182.0 Z: 287.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00027 Y: -182.0 Z: 287.99982 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.0003 Y: -182.0 Z: 287.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.000305 Y: -182.0 Z: 287.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00029 Y: -182.0 Z: 287.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.00028 Y: -182.0 Z: 287.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.000286 Y: -182.0 Z: 287.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -2.872471E-4 Y: -182.0 Z: 288.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.99971 Y: -182.0 Z: 288.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999712 Y: -182.0 Z: 288.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99973 Y: -182.0 Z: 288.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99972 Y: -182.0 Z: 288.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99973 Y: -182.0 Z: 288.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99971 Y: -182.0 Z: 288.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99971 Y: -182.0 Z: 288.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99971 Y: -182.0 Z: 288.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.9997 Y: -182.0 Z: 288.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99973 Y: -182.0 Z: 288.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.9997 Y: -182.0 Z: 288.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.9997 Y: -182.0 Z: 288.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.00037 Y: -182.0 Z: 319.99954 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.0003 Y: -182.0 Z: 319.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00034 Y: -182.0 Z: 319.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.0003 Y: -182.0 Z: 319.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.0003 Y: -182.0 Z: 319.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00032 Y: -182.0 Z: 319.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00038 Y: -182.0 Z: 319.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00027 Y: -182.0 Z: 319.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00032 Y: -182.0 Z: 319.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00033 Y: -182.0 Z: 319.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.00032 Y: -182.0 Z: 319.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.000347 Y: -182.0 Z: 319.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -3.1916343E-4 Y: -182.0 Z: 320.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999708 Y: -182.0 Z: 320.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.999683 Y: -182.0 Z: 320.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99969 Y: -182.0 Z: 320.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99969 Y: -182.0 Z: 320.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99968 Y: -182.0 Z: 320.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.9997 Y: -182.0 Z: 320.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99966 Y: -182.0 Z: 320.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99968 Y: -182.0 Z: 320.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99966 Y: -182.0 Z: 320.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.99966 Y: -182.0 Z: 320.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99966 Y: -182.0 Z: 320.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.9997 Y: -182.0 Z: 320.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.0003 Y: -182.0 Z: 351.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.00034 Y: -182.0 Z: 351.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.0004 Y: -182.0 Z: 351.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.00034 Y: -182.0 Z: 351.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00034 Y: -182.0 Z: 351.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.0004 Y: -182.0 Z: 351.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00034 Y: -182.0 Z: 351.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00037 Y: -182.0 Z: 351.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00038 Y: -182.0 Z: 351.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00035 Y: -182.0 Z: 351.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.00038 Y: -182.0 Z: 351.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.000374 Y: -182.0 Z: 351.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.99968 Y: -182.0 Z: 352.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: -3.5107977E-4 Y: -182.0 Z: 352.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.99967 Y: -182.0 Z: 352.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99965 Y: -182.0 Z: 352.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99968 Y: -182.0 Z: 352.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99966 Y: -182.0 Z: 352.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99968 Y: -182.0 Z: 352.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99966 Y: -182.0 Z: 352.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99965 Y: -182.0 Z: 352.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99963 Y: -182.0 Z: 352.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.99963 Y: -182.0 Z: 352.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99963 Y: -182.0 Z: 352.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.99963 Y: -182.0 Z: 352.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.00037 Y: -182.0 Z: 383.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.00037 Y: -182.0 Z: 383.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.0004 Y: -182.0 Z: 383.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.0004 Y: -182.0 Z: 383.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00037 Y: -182.0 Z: 383.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00035 Y: -182.0 Z: 383.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00034 Y: -182.0 Z: 383.99982 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00038 Y: -182.0 Z: 383.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00041 Y: -182.0 Z: 383.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00039 Y: -182.0 Z: 383.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.000404 Y: -182.0 Z: 383.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.00042 Y: -182.0 Z: 383.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -3.829961E-4 Y: -182.0 Z: 384.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999653 Y: -182.0 Z: 384.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.99964 Y: -182.0 Z: 384.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99962 Y: -182.0 Z: 384.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99965 Y: -182.0 Z: 384.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99962 Y: -182.0 Z: 384.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99962 Y: -182.0 Z: 384.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99963 Y: -182.0 Z: 384.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.9996 Y: -182.0 Z: 384.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.9996 Y: -182.0 Z: 384.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.99963 Y: -182.0 Z: 384.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.9996 Y: -182.0 Z: 384.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.99957 Y: -182.0 Z: 384.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99954 Y: -150.0 Z: -384.00043 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99957 Y: -150.0 Z: -384.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99966 Y: -150.0 Z: -384.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99956 Y: -150.0 Z: -384.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.9997 Y: -150.0 Z: -384.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99966 Y: -150.0 Z: -384.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99953 Y: -150.0 Z: -384.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99963 Y: -150.0 Z: -384.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.999664 Y: -150.0 Z: -384.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.99954 Y: -150.0 Z: -384.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999653 Y: -150.0 Z: -384.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999666 Y: -150.0 Z: -384.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 3.707901E-4 Y: -150.0 Z: -384.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000385 Y: -150.0 Z: -383.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.000374 Y: -150.0 Z: -383.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00035 Y: -150.0 Z: -383.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00038 Y: -150.0 Z: -383.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00035 Y: -150.0 Z: -383.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00035 Y: -150.0 Z: -383.99982 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00037 Y: -150.0 Z: -383.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00037 Y: -150.0 Z: -383.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.0004 Y: -150.0 Z: -383.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.0004 Y: -150.0 Z: -383.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.00037 Y: -150.0 Z: -383.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00037 Y: -150.0 Z: -383.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99957 Y: -150.0 Z: -352.00046 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.9996 Y: -150.0 Z: -352.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.9996 Y: -150.0 Z: -352.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.9996 Y: -150.0 Z: -352.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99966 Y: -150.0 Z: -352.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.9996 Y: -150.0 Z: -352.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99954 Y: -150.0 Z: -352.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99966 Y: -150.0 Z: -352.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.99966 Y: -150.0 Z: -352.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.99969 Y: -150.0 Z: -352.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999638 Y: -150.0 Z: -352.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999733 Y: -150.0 Z: -352.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 3.3989092E-4 Y: -150.0 Z: -352.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00034 Y: -150.0 Z: -351.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.00035 Y: -150.0 Z: -351.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00032 Y: -150.0 Z: -351.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00034 Y: -150.0 Z: -351.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00034 Y: -150.0 Z: -351.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00035 Y: -150.0 Z: -351.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00035 Y: -150.0 Z: -351.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00037 Y: -150.0 Z: -351.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.00037 Y: -150.0 Z: -351.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.00037 Y: -150.0 Z: -351.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.00034 Y: -150.0 Z: -351.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00034 Y: -150.0 Z: -351.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99963 Y: -150.0 Z: -320.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99963 Y: -150.0 Z: -320.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99973 Y: -150.0 Z: -320.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99965 Y: -150.0 Z: -320.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99966 Y: -150.0 Z: -320.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99966 Y: -150.0 Z: -320.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99962 Y: -150.0 Z: -320.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99971 Y: -150.0 Z: -320.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.999664 Y: -150.0 Z: -320.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999615 Y: -150.0 Z: -320.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.99973 Y: -150.0 Z: -320.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999641 Y: -150.0 Z: -320.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 3.0899173E-4 Y: -150.0 Z: -320.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000317 Y: -150.0 Z: -319.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00029 Y: -150.0 Z: -319.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.0003 Y: -150.0 Z: -319.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00029 Y: -150.0 Z: -319.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00029 Y: -150.0 Z: -319.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.0003 Y: -150.0 Z: -319.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00032 Y: -150.0 Z: -319.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00034 Y: -150.0 Z: -319.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.0003 Y: -150.0 Z: -319.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.0003 Y: -150.0 Z: -319.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.0003 Y: -150.0 Z: -319.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00034 Y: -150.0 Z: -319.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99973 Y: -150.0 Z: -288.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.9997 Y: -150.0 Z: -288.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.9997 Y: -150.0 Z: -288.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99973 Y: -150.0 Z: -288.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99966 Y: -150.0 Z: -288.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99973 Y: -150.0 Z: -288.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99963 Y: -150.0 Z: -288.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99976 Y: -150.0 Z: -288.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.999725 Y: -150.0 Z: -288.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.99974 Y: -150.0 Z: -288.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999718 Y: -150.0 Z: -288.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999722 Y: -150.0 Z: -288.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000263 Y: -150.0 Z: -288.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 2.7809257E-4 Y: -150.0 Z: -288.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00026 Y: -150.0 Z: -287.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00028 Y: -150.0 Z: -287.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00026 Y: -150.0 Z: -287.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00027 Y: -150.0 Z: -287.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00029 Y: -150.0 Z: -287.99982 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.0003 Y: -150.0 Z: -287.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00027 Y: -150.0 Z: -287.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.0003 Y: -150.0 Z: -287.99973 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.00027 Y: -150.0 Z: -287.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.0003 Y: -150.0 Z: -287.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.0003 Y: -150.0 Z: -287.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.9997 Y: -150.0 Z: -256.00043 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99973 Y: -150.0 Z: -256.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99973 Y: -150.0 Z: -256.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99973 Y: -150.0 Z: -256.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99971 Y: -150.0 Z: -256.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99973 Y: -150.0 Z: -256.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.9998 Y: -150.0 Z: -256.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.999695 Y: -150.0 Z: -256.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.99967 Y: -150.0 Z: -256.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99979 Y: -150.0 Z: -256.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.99969 Y: -150.0 Z: -256.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999714 Y: -150.0 Z: -256.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 2.4719338E-4 Y: -150.0 Z: -256.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000256 Y: -150.0 Z: -255.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00023 Y: -150.0 Z: -255.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00023 Y: -150.0 Z: -255.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.000244 Y: -150.0 Z: -255.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00024 Y: -150.0 Z: -255.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00026 Y: -150.0 Z: -255.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00026 Y: -150.0 Z: -255.99977 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00024 Y: -150.0 Z: -255.99974 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.00024 Y: -150.0 Z: -255.99971 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.00024 Y: -150.0 Z: -255.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.00027 Y: -150.0 Z: -255.99965 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00024 Y: -150.0 Z: -255.99962 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99976 Y: -150.0 Z: -224.00041 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99973 Y: -150.0 Z: -224.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.9998 Y: -150.0 Z: -224.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99976 Y: -150.0 Z: -224.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99976 Y: -150.0 Z: -224.00026 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.9998 Y: -150.0 Z: -224.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99974 Y: -150.0 Z: -224.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99979 Y: -150.0 Z: -224.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.99975 Y: -150.0 Z: -224.00014 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.99971 Y: -150.0 Z: -224.00008 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.999825 Y: -150.0 Z: -224.00008 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999817 Y: -150.0 Z: -224.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 2.1629423E-4 Y: -150.0 Z: -224.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.00021 Y: -150.0 Z: -223.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00021 Y: -150.0 Z: -223.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00022 Y: -150.0 Z: -223.99991 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00023 Y: -150.0 Z: -223.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00023 Y: -150.0 Z: -223.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00023 Y: -150.0 Z: -223.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00023 Y: -150.0 Z: -223.99979 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00024 Y: -150.0 Z: -223.99974 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.00024 Y: -150.0 Z: -223.99971 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.0002 Y: -150.0 Z: -223.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.0002 Y: -150.0 Z: -223.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.0002 Y: -150.0 Z: -223.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.9998 Y: -150.0 Z: -192.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99982 Y: -150.0 Z: -192.00038 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.9998 Y: -150.0 Z: -192.00035 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.9998 Y: -150.0 Z: -192.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99982 Y: -150.0 Z: -192.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.9998 Y: -150.0 Z: -192.00023 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99977 Y: -150.0 Z: -192.00021 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99983 Y: -150.0 Z: -192.00014 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.99976 Y: -150.0 Z: -192.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.99983 Y: -150.0 Z: -192.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999832 Y: -150.0 Z: -192.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999826 Y: -150.0 Z: -192.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 1.8539505E-4 Y: -150.0 Z: -192.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000187 Y: -150.0 Z: -191.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00019 Y: -150.0 Z: -191.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.000175 Y: -150.0 Z: -191.99991 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00018 Y: -150.0 Z: -191.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.0002 Y: -150.0 Z: -191.99983 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00018 Y: -150.0 Z: -191.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.0002 Y: -150.0 Z: -191.99977 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00018 Y: -150.0 Z: -191.99974 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.0002 Y: -150.0 Z: -191.99973 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.00018 Y: -150.0 Z: -191.99968 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.0002 Y: -150.0 Z: -191.99965 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00018 Y: -150.0 Z: -191.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99985 Y: -150.0 Z: -160.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99982 Y: -150.0 Z: -160.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99985 Y: -150.0 Z: -160.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99985 Y: -150.0 Z: -160.00029 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99983 Y: -150.0 Z: -160.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99985 Y: -150.0 Z: -160.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99982 Y: -150.0 Z: -160.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99986 Y: -150.0 Z: -160.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.999825 Y: -150.0 Z: -160.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.999855 Y: -150.0 Z: -160.00008 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999807 Y: -150.0 Z: -160.00005 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999866 Y: -150.0 Z: -160.00005 size: 32.0
+is lit up by all lights
+Cube: Center: X: 1.5449586E-4 Y: -150.0 Z: -160.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000145 Y: -150.0 Z: -159.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.000145 Y: -150.0 Z: -159.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00015 Y: -150.0 Z: -159.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00017 Y: -150.0 Z: -159.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00015 Y: -150.0 Z: -159.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00017 Y: -150.0 Z: -159.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00017 Y: -150.0 Z: -159.99979 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00015 Y: -150.0 Z: -159.99973 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.00018 Y: -150.0 Z: -159.99971 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.00015 Y: -150.0 Z: -159.99968 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.00015 Y: -150.0 Z: -159.99965 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00015 Y: -150.0 Z: -159.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99985 Y: -150.0 Z: -128.00043 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99985 Y: -150.0 Z: -128.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99988 Y: -150.0 Z: -128.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99988 Y: -150.0 Z: -128.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99988 Y: -150.0 Z: -128.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99986 Y: -150.0 Z: -128.00026 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99985 Y: -150.0 Z: -128.00021 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99986 Y: -150.0 Z: -128.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.999855 Y: -150.0 Z: -128.00014 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.9999 Y: -150.0 Z: -128.00008 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999847 Y: -150.0 Z: -128.00008 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999846 Y: -150.0 Z: -128.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 1.2359669E-4 Y: -150.0 Z: -128.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000114 Y: -150.0 Z: -127.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.000114 Y: -150.0 Z: -127.99995 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00013 Y: -150.0 Z: -127.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00012 Y: -150.0 Z: -127.99987 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00012 Y: -150.0 Z: -127.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00012 Y: -150.0 Z: -127.99981 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00012 Y: -150.0 Z: -127.99978 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00012 Y: -150.0 Z: -127.99974 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.00012 Y: -150.0 Z: -127.99971 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.00012 Y: -150.0 Z: -127.99968 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.00012 Y: -150.0 Z: -127.99964 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00012 Y: -150.0 Z: -127.99961 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.9999 Y: -150.0 Z: -96.000404 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99988 Y: -150.0 Z: -96.00038 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.9999 Y: -150.0 Z: -96.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99988 Y: -150.0 Z: -96.00032 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.9999 Y: -150.0 Z: -96.000244 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99991 Y: -150.0 Z: -96.00022 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.9999 Y: -150.0 Z: -96.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.9999 Y: -150.0 Z: -96.000175 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.99991 Y: -150.0 Z: -96.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.999886 Y: -150.0 Z: -96.00011 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999916 Y: -150.0 Z: -96.00005 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999916 Y: -150.0 Z: -96.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 9.2697526E-5 Y: -150.0 Z: -96.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000095 Y: -150.0 Z: -95.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00009 Y: -150.0 Z: -95.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00009 Y: -150.0 Z: -95.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00009 Y: -150.0 Z: -95.99987 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00009 Y: -150.0 Z: -95.99984 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00009 Y: -150.0 Z: -95.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.0001 Y: -150.0 Z: -95.99977 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.0001 Y: -150.0 Z: -95.99974 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.0001 Y: -150.0 Z: -95.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.0001 Y: -150.0 Z: -95.99969 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.0001 Y: -150.0 Z: -95.99965 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.0001 Y: -150.0 Z: -95.99962 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99994 Y: -150.0 Z: -64.00043 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99994 Y: -150.0 Z: -64.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99994 Y: -150.0 Z: -64.000336 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99994 Y: -150.0 Z: -64.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99992 Y: -150.0 Z: -64.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99994 Y: -150.0 Z: -64.00021 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99992 Y: -150.0 Z: -64.00021 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99994 Y: -150.0 Z: -64.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.99994 Y: -150.0 Z: -64.00014 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.99992 Y: -150.0 Z: -64.00011 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.999928 Y: -150.0 Z: -64.00007 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999924 Y: -150.0 Z: -64.00004 size: 32.0
+is lit up by all lights
+Cube: Center: X: 6.1798346E-5 Y: -150.0 Z: -64.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.000057 Y: -150.0 Z: -63.999973 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00006 Y: -150.0 Z: -63.999935 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00006 Y: -150.0 Z: -63.999905 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00006 Y: -150.0 Z: -63.99987 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00006 Y: -150.0 Z: -63.99984 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00006 Y: -150.0 Z: -63.999805 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00006 Y: -150.0 Z: -63.999775 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00006 Y: -150.0 Z: -63.999744 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.00006 Y: -150.0 Z: -63.999714 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.00006 Y: -150.0 Z: -63.999683 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.00006 Y: -150.0 Z: -63.99965 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00006 Y: -150.0 Z: -63.99962 size: 32.0
+is lit up by all lights
+Cube: Center: X: -383.99997 Y: -150.0 Z: -32.000435 size: 32.0
+is lit up by all lights
+Cube: Center: X: -319.99994 Y: -150.0 Z: -32.00036 size: 32.0
+is lit up by all lights
+Cube: Center: X: -351.99994 Y: -150.0 Z: -32.000355 size: 32.0
+is lit up by all lights
+Cube: Center: X: -287.99997 Y: -150.0 Z: -32.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: -255.99997 Y: -150.0 Z: -32.000286 size: 32.0
+is lit up by all lights
+Cube: Center: X: -223.99997 Y: -150.0 Z: -32.000214 size: 32.0
+is lit up by all lights
+Cube: Center: X: -191.99997 Y: -150.0 Z: -32.000214 size: 32.0
+is lit up by all lights
+Cube: Center: X: -159.99997 Y: -150.0 Z: -32.000168 size: 32.0
+is lit up by all lights
+Cube: Center: X: -127.99996 Y: -150.0 Z: -32.000134 size: 32.0
+is lit up by all lights
+Cube: Center: X: -95.99996 Y: -150.0 Z: -32.000107 size: 32.0
+is lit up by all lights
+Cube: Center: X: -63.99997 Y: -150.0 Z: -32.00007 size: 32.0
+is lit up by all lights
+Cube: Center: X: -31.999964 Y: -150.0 Z: -32.000034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 3.0899173E-5 Y: -150.0 Z: -32.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.00003 Y: -150.0 Z: -31.999968 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.00003 Y: -150.0 Z: -31.999935 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.00003 Y: -150.0 Z: -31.999903 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.00003 Y: -150.0 Z: -31.999872 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.00003 Y: -150.0 Z: -31.999842 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.00003 Y: -150.0 Z: -31.99981 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.00003 Y: -150.0 Z: -31.999779 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.00003 Y: -150.0 Z: -31.999744 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.00006 Y: -150.0 Z: -31.999714 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.00003 Y: -150.0 Z: -31.99968 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.00003 Y: -150.0 Z: -31.999647 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.00003 Y: -150.0 Z: -31.999619 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.0 Y: -150.0 Z: -3.9978127E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.0 Y: -150.0 Z: -3.6646618E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.0 Y: -150.0 Z: -3.3315108E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.0 Y: -150.0 Z: -2.9983596E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.0 Y: -150.0 Z: -2.6652086E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.0 Y: -150.0 Z: -2.3320575E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.0 Y: -150.0 Z: -1.9989064E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.0 Y: -150.0 Z: -1.6657554E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.0 Y: -150.0 Z: -1.3326043E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.0 Y: -150.0 Z: -9.994532E-5 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.0 Y: -150.0 Z: -6.6630215E-5 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.0 Y: -150.0 Z: -3.3315107E-5 size: 32.0
+is lit up by all lights
+Cube: Center: X: 0.0 Y: -150.0 Z: -0.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 32.0 Y: -150.0 Z: 3.2E-5 size: 32.0
+is lit up by all lights
+Cube: Center: X: 64.0 Y: -150.0 Z: 6.4E-5 size: 32.0
+is lit up by all lights
+Cube: Center: X: 96.0 Y: -150.0 Z: 9.5999996E-5 size: 32.0
+is lit up by all lights
+Cube: Center: X: 128.0 Y: -150.0 Z: 1.28E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: 160.0 Y: -150.0 Z: 1.6E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: 192.0 Y: -150.0 Z: 1.9199999E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: 224.0 Y: -150.0 Z: 2.24E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: 256.0 Y: -150.0 Z: 2.56E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: 288.0 Y: -150.0 Z: 2.88E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: 320.0 Y: -150.0 Z: 3.2E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: 352.0 Y: -150.0 Z: 3.52E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: 384.0 Y: -150.0 Z: 3.8399998E-4 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.00003 Y: -150.0 Z: 31.999622 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.00003 Y: -150.0 Z: 31.999636 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.00003 Y: -150.0 Z: 31.999695 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00006 Y: -150.0 Z: 31.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00003 Y: -150.0 Z: 31.999746 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00003 Y: -150.0 Z: 31.999754 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00003 Y: -150.0 Z: 31.999813 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00003 Y: -150.0 Z: 31.999834 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00003 Y: -150.0 Z: 31.999866 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00003 Y: -150.0 Z: 31.999908 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.00004 Y: -150.0 Z: 31.999933 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.00003 Y: -150.0 Z: 31.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -3.191634E-5 Y: -150.0 Z: 32.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999966 Y: -150.0 Z: 32.000034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.99997 Y: -150.0 Z: 32.000065 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99997 Y: -150.0 Z: 32.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99996 Y: -150.0 Z: 32.000126 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99997 Y: -150.0 Z: 32.00016 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99997 Y: -150.0 Z: 32.00019 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99997 Y: -150.0 Z: 32.000225 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99997 Y: -150.0 Z: 32.000256 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99997 Y: -150.0 Z: 32.00029 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.99997 Y: -150.0 Z: 32.000317 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99994 Y: -150.0 Z: 32.00035 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.99997 Y: -150.0 Z: 32.000385 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.00006 Y: -150.0 Z: 63.99961 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.00006 Y: -150.0 Z: 63.999626 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.00006 Y: -150.0 Z: 63.99967 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00006 Y: -150.0 Z: 63.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00006 Y: -150.0 Z: 63.999733 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00008 Y: -150.0 Z: 63.99975 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00006 Y: -150.0 Z: 63.999817 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00008 Y: -150.0 Z: 63.999817 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00008 Y: -150.0 Z: 63.999866 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00006 Y: -150.0 Z: 63.99991 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.00006 Y: -150.0 Z: 63.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.000057 Y: -150.0 Z: 63.999973 size: 32.0
+is lit up by all lights
+Cube: Center: X: -6.383268E-5 Y: -150.0 Z: 64.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999937 Y: -150.0 Z: 64.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.99993 Y: -150.0 Z: 64.00007 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99993 Y: -150.0 Z: 64.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99994 Y: -150.0 Z: 64.00013 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99994 Y: -150.0 Z: 64.00017 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99994 Y: -150.0 Z: 64.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99994 Y: -150.0 Z: 64.00023 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99992 Y: -150.0 Z: 64.00025 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99994 Y: -150.0 Z: 64.00029 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.99994 Y: -150.0 Z: 64.00032 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99994 Y: -150.0 Z: 64.00035 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.99994 Y: -150.0 Z: 64.00038 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.0001 Y: -150.0 Z: 95.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.0001 Y: -150.0 Z: 95.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.0001 Y: -150.0 Z: 95.99972 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.0001 Y: -150.0 Z: 95.99972 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.0001 Y: -150.0 Z: 95.99972 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.0001 Y: -150.0 Z: 95.999756 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00009 Y: -150.0 Z: 95.999794 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00009 Y: -150.0 Z: 95.99984 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.0001 Y: -150.0 Z: 95.999855 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00009 Y: -150.0 Z: 95.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.00009 Y: -150.0 Z: 95.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.000103 Y: -150.0 Z: 95.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -9.574903E-5 Y: -150.0 Z: 96.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999912 Y: -150.0 Z: 96.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.9999 Y: -150.0 Z: 96.00007 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99989 Y: -150.0 Z: 96.00009 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.9999 Y: -150.0 Z: 96.00013 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.9999 Y: -150.0 Z: 96.00016 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.9999 Y: -150.0 Z: 96.00019 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99991 Y: -150.0 Z: 96.00023 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.9999 Y: -150.0 Z: 96.00026 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99988 Y: -150.0 Z: 96.00029 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.9999 Y: -150.0 Z: 96.000336 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.9999 Y: -150.0 Z: 96.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.9999 Y: -150.0 Z: 96.00039 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.00012 Y: -150.0 Z: 127.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.00015 Y: -150.0 Z: 127.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.00012 Y: -150.0 Z: 127.999664 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00012 Y: -150.0 Z: 127.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00015 Y: -150.0 Z: 127.99973 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00012 Y: -150.0 Z: 127.99979 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00012 Y: -150.0 Z: 127.99982 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00012 Y: -150.0 Z: 127.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00012 Y: -150.0 Z: 127.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00014 Y: -150.0 Z: 127.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.000114 Y: -150.0 Z: 127.99995 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.000126 Y: -150.0 Z: 127.99996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -1.2766536E-4 Y: -150.0 Z: 128.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999872 Y: -150.0 Z: 128.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.999874 Y: -150.0 Z: 128.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99987 Y: -150.0 Z: 128.00009 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99986 Y: -150.0 Z: 128.00014 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99986 Y: -150.0 Z: 128.00017 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99986 Y: -150.0 Z: 128.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99986 Y: -150.0 Z: 128.00023 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99988 Y: -150.0 Z: 128.00026 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99988 Y: -150.0 Z: 128.00029 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.99988 Y: -150.0 Z: 128.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99985 Y: -150.0 Z: 128.00035 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.99988 Y: -150.0 Z: 128.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.00015 Y: -150.0 Z: 159.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.00018 Y: -150.0 Z: 159.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.00015 Y: -150.0 Z: 159.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00018 Y: -150.0 Z: 159.99968 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00018 Y: -150.0 Z: 159.99971 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00018 Y: -150.0 Z: 159.99977 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00017 Y: -150.0 Z: 159.99977 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00015 Y: -150.0 Z: 159.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00019 Y: -150.0 Z: 159.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00015 Y: -150.0 Z: 159.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.00016 Y: -150.0 Z: 159.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.00016 Y: -150.0 Z: 159.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -1.5958172E-4 Y: -150.0 Z: 160.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999842 Y: -150.0 Z: 160.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.999844 Y: -150.0 Z: 160.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99985 Y: -150.0 Z: 160.00008 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99984 Y: -150.0 Z: 160.00014 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99983 Y: -150.0 Z: 160.00017 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99985 Y: -150.0 Z: 160.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99983 Y: -150.0 Z: 160.00023 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99983 Y: -150.0 Z: 160.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99985 Y: -150.0 Z: 160.00029 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.99985 Y: -150.0 Z: 160.00032 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99985 Y: -150.0 Z: 160.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.99985 Y: -150.0 Z: 160.00038 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.00018 Y: -150.0 Z: 191.99959 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.0002 Y: -150.0 Z: 191.99965 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.00018 Y: -150.0 Z: 191.99968 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.0002 Y: -150.0 Z: 191.99971 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00018 Y: -150.0 Z: 191.99973 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.0002 Y: -150.0 Z: 191.99977 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00018 Y: -150.0 Z: 191.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.0002 Y: -150.0 Z: 191.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00018 Y: -150.0 Z: 191.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00017 Y: -150.0 Z: 191.99991 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.000206 Y: -150.0 Z: 191.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.000202 Y: -150.0 Z: 191.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -1.9149805E-4 Y: -150.0 Z: 192.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.99982 Y: -150.0 Z: 192.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.999825 Y: -150.0 Z: 192.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99981 Y: -150.0 Z: 192.00009 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.9998 Y: -150.0 Z: 192.00014 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99982 Y: -150.0 Z: 192.00017 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99979 Y: -150.0 Z: 192.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.9998 Y: -150.0 Z: 192.00023 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.9998 Y: -150.0 Z: 192.00026 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99982 Y: -150.0 Z: 192.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.9998 Y: -150.0 Z: 192.00032 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99982 Y: -150.0 Z: 192.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.9998 Y: -150.0 Z: 192.00038 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.0002 Y: -150.0 Z: 223.99962 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.00024 Y: -150.0 Z: 223.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.0002 Y: -150.0 Z: 223.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00024 Y: -150.0 Z: 223.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00027 Y: -150.0 Z: 223.99971 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00024 Y: -150.0 Z: 223.99979 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00021 Y: -150.0 Z: 223.99979 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.0002 Y: -150.0 Z: 223.99986 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00021 Y: -150.0 Z: 223.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00024 Y: -150.0 Z: 223.99991 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.00023 Y: -150.0 Z: 223.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.00023 Y: -150.0 Z: 223.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -2.234144E-4 Y: -150.0 Z: 224.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999783 Y: -150.0 Z: 224.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.999783 Y: -150.0 Z: 224.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.999794 Y: -150.0 Z: 224.00009 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.999794 Y: -150.0 Z: 224.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99977 Y: -150.0 Z: 224.00017 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99977 Y: -150.0 Z: 224.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99977 Y: -150.0 Z: 224.00023 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99979 Y: -150.0 Z: 224.00026 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.9998 Y: -150.0 Z: 224.00029 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.9998 Y: -150.0 Z: 224.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99976 Y: -150.0 Z: 224.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.99976 Y: -150.0 Z: 224.00038 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.00024 Y: -150.0 Z: 255.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.00027 Y: -150.0 Z: 255.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.00024 Y: -150.0 Z: 255.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00024 Y: -150.0 Z: 255.99971 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00024 Y: -150.0 Z: 255.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00026 Y: -150.0 Z: 255.99979 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00027 Y: -150.0 Z: 255.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00026 Y: -150.0 Z: 255.99983 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00027 Y: -150.0 Z: 255.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00023 Y: -150.0 Z: 255.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.00025 Y: -150.0 Z: 255.99992 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.00028 Y: -150.0 Z: 255.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -2.5533073E-4 Y: -150.0 Z: 256.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999765 Y: -150.0 Z: 256.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.999744 Y: -150.0 Z: 256.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.999756 Y: -150.0 Z: 256.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99975 Y: -150.0 Z: 256.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99976 Y: -150.0 Z: 256.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99974 Y: -150.0 Z: 256.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99974 Y: -150.0 Z: 256.00024 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99973 Y: -150.0 Z: 256.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99973 Y: -150.0 Z: 256.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.99973 Y: -150.0 Z: 256.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99976 Y: -150.0 Z: 256.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.99973 Y: -150.0 Z: 256.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.0003 Y: -150.0 Z: 287.99957 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.0003 Y: -150.0 Z: 287.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.0003 Y: -150.0 Z: 287.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00027 Y: -150.0 Z: 287.99973 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00032 Y: -150.0 Z: 287.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00027 Y: -150.0 Z: 287.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00027 Y: -150.0 Z: 287.99982 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.0003 Y: -150.0 Z: 287.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.000305 Y: -150.0 Z: 287.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00029 Y: -150.0 Z: 287.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.00028 Y: -150.0 Z: 287.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.000286 Y: -150.0 Z: 287.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -2.872471E-4 Y: -150.0 Z: 288.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.99971 Y: -150.0 Z: 288.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999712 Y: -150.0 Z: 288.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99973 Y: -150.0 Z: 288.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99972 Y: -150.0 Z: 288.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99973 Y: -150.0 Z: 288.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99971 Y: -150.0 Z: 288.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99971 Y: -150.0 Z: 288.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99971 Y: -150.0 Z: 288.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99973 Y: -150.0 Z: 288.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.9997 Y: -150.0 Z: 288.0003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.9997 Y: -150.0 Z: 288.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.9997 Y: -150.0 Z: 288.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.00037 Y: -150.0 Z: 319.99954 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.0003 Y: -150.0 Z: 319.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.0003 Y: -150.0 Z: 319.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.00034 Y: -150.0 Z: 319.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00032 Y: -150.0 Z: 319.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00038 Y: -150.0 Z: 319.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.0003 Y: -150.0 Z: 319.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00027 Y: -150.0 Z: 319.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00032 Y: -150.0 Z: 319.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00033 Y: -150.0 Z: 319.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.000347 Y: -150.0 Z: 319.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.00032 Y: -150.0 Z: 319.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -3.1916343E-4 Y: -150.0 Z: 320.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999708 Y: -150.0 Z: 320.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.999683 Y: -150.0 Z: 320.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99969 Y: -150.0 Z: 320.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99969 Y: -150.0 Z: 320.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.9997 Y: -150.0 Z: 320.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99968 Y: -150.0 Z: 320.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99966 Y: -150.0 Z: 320.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99968 Y: -150.0 Z: 320.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99966 Y: -150.0 Z: 320.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.99966 Y: -150.0 Z: 320.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99966 Y: -150.0 Z: 320.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.9997 Y: -150.0 Z: 320.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.0003 Y: -150.0 Z: 351.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.00034 Y: -150.0 Z: 351.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.0004 Y: -150.0 Z: 351.99966 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.00034 Y: -150.0 Z: 351.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00034 Y: -150.0 Z: 351.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.0004 Y: -150.0 Z: 351.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00034 Y: -150.0 Z: 351.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00038 Y: -150.0 Z: 351.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00037 Y: -150.0 Z: 351.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00035 Y: -150.0 Z: 351.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.00038 Y: -150.0 Z: 351.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.000374 Y: -150.0 Z: 351.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.99968 Y: -150.0 Z: 352.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: -3.5107977E-4 Y: -150.0 Z: 352.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.99967 Y: -150.0 Z: 352.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99968 Y: -150.0 Z: 352.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99965 Y: -150.0 Z: 352.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99966 Y: -150.0 Z: 352.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99968 Y: -150.0 Z: 352.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99966 Y: -150.0 Z: 352.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.99965 Y: -150.0 Z: 352.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.99963 Y: -150.0 Z: 352.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.99963 Y: -150.0 Z: 352.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.99963 Y: -150.0 Z: 352.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.99963 Y: -150.0 Z: 352.0004 size: 32.0
+is lit up by all lights
+Cube: Center: X: -384.00037 Y: -150.0 Z: 383.9996 size: 32.0
+is lit up by all lights
+Cube: Center: X: -352.00037 Y: -150.0 Z: 383.99963 size: 32.0
+is lit up by all lights
+Cube: Center: X: -320.0004 Y: -150.0 Z: 383.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -288.0004 Y: -150.0 Z: 383.9997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -256.00037 Y: -150.0 Z: 383.99976 size: 32.0
+is lit up by all lights
+Cube: Center: X: -224.00035 Y: -150.0 Z: 383.9998 size: 32.0
+is lit up by all lights
+Cube: Center: X: -192.00034 Y: -150.0 Z: 383.99982 size: 32.0
+is lit up by all lights
+Cube: Center: X: -160.00038 Y: -150.0 Z: 383.99985 size: 32.0
+is lit up by all lights
+Cube: Center: X: -128.00041 Y: -150.0 Z: 383.99988 size: 32.0
+is lit up by all lights
+Cube: Center: X: -96.00039 Y: -150.0 Z: 383.9999 size: 32.0
+is lit up by all lights
+Cube: Center: X: -64.000404 Y: -150.0 Z: 383.99994 size: 32.0
+is lit up by all lights
+Cube: Center: X: -32.00042 Y: -150.0 Z: 383.99997 size: 32.0
+is lit up by all lights
+Cube: Center: X: -3.829961E-4 Y: -150.0 Z: 384.0 size: 32.0
+is lit up by all lights
+Cube: Center: X: 31.999653 Y: -150.0 Z: 384.00003 size: 32.0
+is lit up by all lights
+Cube: Center: X: 63.99964 Y: -150.0 Z: 384.00006 size: 32.0
+is lit up by all lights
+Cube: Center: X: 95.99962 Y: -150.0 Z: 384.0001 size: 32.0
+is lit up by all lights
+Cube: Center: X: 127.99965 Y: -150.0 Z: 384.00012 size: 32.0
+is lit up by all lights
+Cube: Center: X: 159.99962 Y: -150.0 Z: 384.00015 size: 32.0
+is lit up by all lights
+Cube: Center: X: 191.99962 Y: -150.0 Z: 384.00018 size: 32.0
+is lit up by all lights
+Cube: Center: X: 223.99963 Y: -150.0 Z: 384.0002 size: 32.0
+is lit up by all lights
+Cube: Center: X: 287.9996 Y: -150.0 Z: 384.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: 255.9996 Y: -150.0 Z: 384.00027 size: 32.0
+is lit up by all lights
+Cube: Center: X: 351.9996 Y: -150.0 Z: 384.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 319.99963 Y: -150.0 Z: 384.00034 size: 32.0
+is lit up by all lights
+Cube: Center: X: 383.99957 Y: -150.0 Z: 384.00037 size: 32.0
+is lit up by all lights
+Cube: Center: X: -67.49992 Y: -67.5 Z: -67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.49993 Y: -67.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.499912 Y: -67.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.49994 Y: -67.5 Z: -67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.4999347 Y: -67.5 Z: -67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.500061 Y: -67.5 Z: -67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500067 Y: -67.5 Z: -67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.500065 Y: -67.5 Z: -67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.50007 Y: -67.5 Z: -67.49995 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50007 Y: -67.5 Z: -67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49994 Y: -67.5 Z: -52.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.499943 Y: -67.5 Z: -52.50006 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.49994 Y: -67.5 Z: -52.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.499958 Y: -67.5 Z: -52.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.499957 Y: -67.5 Z: -52.500008 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.500049 Y: -67.5 Z: -52.499992 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500051 Y: -67.5 Z: -52.499977 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.500053 Y: -67.5 Z: -52.499966 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.500053 Y: -67.5 Z: -52.49995 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50005 Y: -67.5 Z: -52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49996 Y: -67.5 Z: -37.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.49996 Y: -67.5 Z: -37.500057 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.499958 Y: -67.5 Z: -37.500042 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.499968 Y: -67.5 Z: -37.50002 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.4999547 Y: -67.5 Z: -37.500008 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.500034 Y: -67.5 Z: -37.499992 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500038 Y: -67.5 Z: -37.499977 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.50004 Y: -67.5 Z: -37.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.50004 Y: -67.5 Z: -37.49995 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50004 Y: -67.5 Z: -37.49993 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49997 Y: -67.5 Z: -22.500076 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.499977 Y: -67.5 Z: -22.500051 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.499973 Y: -67.5 Z: -22.500042 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.499975 Y: -67.5 Z: -22.500025 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.4999804 Y: -67.5 Z: -22.500008 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.5000224 Y: -67.5 Z: -22.499992 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500023 Y: -67.5 Z: -22.499977 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.500023 Y: -67.5 Z: -22.499964 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.500023 Y: -67.5 Z: -22.499947 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50002 Y: -67.5 Z: -22.499931 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49999 Y: -67.5 Z: -7.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.499992 Y: -67.5 Z: -7.50005 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.499992 Y: -67.5 Z: -7.500039 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.499992 Y: -67.5 Z: -7.5000257 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.4999914 Y: -67.5 Z: -7.5000086 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.5000076 Y: -67.5 Z: -7.4999924 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500008 Y: -67.5 Z: -7.499977 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.500008 Y: -67.5 Z: -7.4999623 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.500008 Y: -67.5 Z: -7.499948 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50001 Y: -67.5 Z: -7.499933 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50001 Y: -67.5 Z: 7.4999294 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.500008 Y: -67.5 Z: 7.4999404 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.500008 Y: -67.5 Z: 7.499961 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500008 Y: -67.5 Z: 7.4999785 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.500007 Y: -67.5 Z: 7.499993 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.4999924 Y: -67.5 Z: 7.5000076 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.499992 Y: -67.5 Z: 7.500023 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.499992 Y: -67.5 Z: 7.500037 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.499992 Y: -67.5 Z: 7.500053 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49999 Y: -67.5 Z: 7.5000677 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50002 Y: -67.5 Z: 22.499935 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.500023 Y: -67.5 Z: 22.499943 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.500023 Y: -67.5 Z: 22.499964 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500021 Y: -67.5 Z: 22.499979 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.5000243 Y: -67.5 Z: 22.499992 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.4999795 Y: -67.5 Z: 22.500008 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.499977 Y: -67.5 Z: 22.500023 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.499977 Y: -67.5 Z: 22.500038 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.499977 Y: -67.5 Z: 22.500053 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49998 Y: -67.5 Z: 22.500067 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50004 Y: -67.5 Z: 37.499924 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.50004 Y: -67.5 Z: 37.499947 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.500034 Y: -67.5 Z: 37.499966 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500046 Y: -67.5 Z: 37.499973 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.500037 Y: -67.5 Z: 37.499992 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.4999623 Y: -67.5 Z: 37.500008 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.499966 Y: -67.5 Z: 37.500023 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.49996 Y: -67.5 Z: 37.50004 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.49996 Y: -67.5 Z: 37.500053 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49996 Y: -67.5 Z: 37.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50005 Y: -67.5 Z: 52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.500053 Y: -67.5 Z: 52.49995 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.50005 Y: -67.5 Z: 52.499966 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500055 Y: -67.5 Z: 52.499977 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.500054 Y: -67.5 Z: 52.499992 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.499949 Y: -67.5 Z: 52.500008 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.49995 Y: -67.5 Z: 52.50002 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.499947 Y: -67.5 Z: 52.50004 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.499947 Y: -67.5 Z: 52.500057 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49995 Y: -67.5 Z: 52.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.500072 Y: -67.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50007 Y: -67.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.50007 Y: -67.5 Z: 67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500072 Y: -67.5 Z: 67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.500067 Y: -67.5 Z: 67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.4999323 Y: -67.5 Z: 67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.499937 Y: -67.5 Z: 67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.499935 Y: -67.5 Z: 67.50003 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.49993 Y: -67.5 Z: 67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49993 Y: -67.5 Z: 67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49992 Y: -52.5 Z: -67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.49993 Y: -52.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.499912 Y: -52.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.49994 Y: -52.5 Z: -67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.4999347 Y: -52.5 Z: -67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.500061 Y: -52.5 Z: -67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500067 Y: -52.5 Z: -67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.500065 Y: -52.5 Z: -67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.50007 Y: -52.5 Z: -67.49995 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50007 Y: -52.5 Z: -67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49994 Y: -52.5 Z: -52.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50005 Y: -52.5 Z: -52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49996 Y: -52.5 Z: -37.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50004 Y: -52.5 Z: -37.49993 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49997 Y: -52.5 Z: -22.500076 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50002 Y: -52.5 Z: -22.499931 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49999 Y: -52.5 Z: -7.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50001 Y: -52.5 Z: -7.499933 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50001 Y: -52.5 Z: 7.4999294 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49999 Y: -52.5 Z: 7.5000677 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50002 Y: -52.5 Z: 22.499935 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49998 Y: -52.5 Z: 22.500067 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50004 Y: -52.5 Z: 37.499924 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49996 Y: -52.5 Z: 37.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50005 Y: -52.5 Z: 52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49995 Y: -52.5 Z: 52.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.500072 Y: -52.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50007 Y: -52.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.50007 Y: -52.5 Z: 67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500072 Y: -52.5 Z: 67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.500067 Y: -52.5 Z: 67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.4999323 Y: -52.5 Z: 67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.499937 Y: -52.5 Z: 67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.499935 Y: -52.5 Z: 67.50003 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.49993 Y: -52.5 Z: 67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49993 Y: -52.5 Z: 67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49992 Y: -37.5 Z: -67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.49993 Y: -37.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.499912 Y: -37.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.49994 Y: -37.5 Z: -67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.4999347 Y: -37.5 Z: -67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.500061 Y: -37.5 Z: -67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500067 Y: -37.5 Z: -67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.500065 Y: -37.5 Z: -67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.50007 Y: -37.5 Z: -67.49995 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50007 Y: -37.5 Z: -67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49994 Y: -37.5 Z: -52.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50005 Y: -37.5 Z: -52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49996 Y: -37.5 Z: -37.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50004 Y: -37.5 Z: -37.49993 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49997 Y: -37.5 Z: -22.500076 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50002 Y: -37.5 Z: -22.499931 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49999 Y: -37.5 Z: -7.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50001 Y: -37.5 Z: -7.499933 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50001 Y: -37.5 Z: 7.4999294 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49999 Y: -37.5 Z: 7.5000677 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50002 Y: -37.5 Z: 22.499935 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49998 Y: -37.5 Z: 22.500067 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50004 Y: -37.5 Z: 37.499924 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49996 Y: -37.5 Z: 37.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50005 Y: -37.5 Z: 52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49995 Y: -37.5 Z: 52.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.500072 Y: -37.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50007 Y: -37.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.50007 Y: -37.5 Z: 67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500072 Y: -37.5 Z: 67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.500067 Y: -37.5 Z: 67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.4999323 Y: -37.5 Z: 67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.499937 Y: -37.5 Z: 67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.499935 Y: -37.5 Z: 67.50003 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.49993 Y: -37.5 Z: 67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49993 Y: -37.5 Z: 67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49992 Y: -22.5 Z: -67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.49993 Y: -22.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.499912 Y: -22.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.49994 Y: -22.5 Z: -67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.4999347 Y: -22.5 Z: -67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.500061 Y: -22.5 Z: -67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500067 Y: -22.5 Z: -67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.500065 Y: -22.5 Z: -67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.50007 Y: -22.5 Z: -67.49995 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50007 Y: -22.5 Z: -67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49994 Y: -22.5 Z: -52.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50005 Y: -22.5 Z: -52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49996 Y: -22.5 Z: -37.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50004 Y: -22.5 Z: -37.49993 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49997 Y: -22.5 Z: -22.500076 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50002 Y: -22.5 Z: -22.499931 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49999 Y: -22.5 Z: -7.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50001 Y: -22.5 Z: -7.499933 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50001 Y: -22.5 Z: 7.4999294 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49999 Y: -22.5 Z: 7.5000677 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50002 Y: -22.5 Z: 22.499935 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49998 Y: -22.5 Z: 22.500067 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50004 Y: -22.5 Z: 37.499924 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49996 Y: -22.5 Z: 37.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50005 Y: -22.5 Z: 52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49995 Y: -22.5 Z: 52.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.500072 Y: -22.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50007 Y: -22.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.50007 Y: -22.5 Z: 67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500072 Y: -22.5 Z: 67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.500067 Y: -22.5 Z: 67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.4999323 Y: -22.5 Z: 67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.499937 Y: -22.5 Z: 67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.499935 Y: -22.5 Z: 67.50003 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.49993 Y: -22.5 Z: 67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49993 Y: -22.5 Z: 67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49992 Y: -7.5 Z: -67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.49993 Y: -7.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.499912 Y: -7.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.49994 Y: -7.5 Z: -67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.4999347 Y: -7.5 Z: -67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.500061 Y: -7.5 Z: -67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500067 Y: -7.5 Z: -67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.500065 Y: -7.5 Z: -67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.50007 Y: -7.5 Z: -67.49995 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50007 Y: -7.5 Z: -67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49994 Y: -7.5 Z: -52.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50005 Y: -7.5 Z: -52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49996 Y: -7.5 Z: -37.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50004 Y: -7.5 Z: -37.49993 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49997 Y: -7.5 Z: -22.500076 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50002 Y: -7.5 Z: -22.499931 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49999 Y: -7.5 Z: -7.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50001 Y: -7.5 Z: -7.499933 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50001 Y: -7.5 Z: 7.4999294 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49999 Y: -7.5 Z: 7.5000677 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50002 Y: -7.5 Z: 22.499935 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49998 Y: -7.5 Z: 22.500067 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50004 Y: -7.5 Z: 37.499924 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49996 Y: -7.5 Z: 37.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50005 Y: -7.5 Z: 52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49995 Y: -7.5 Z: 52.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50007 Y: -7.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.500072 Y: -7.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.50007 Y: -7.5 Z: 67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500072 Y: -7.5 Z: 67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.500067 Y: -7.5 Z: 67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.4999323 Y: -7.5 Z: 67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.499937 Y: -7.5 Z: 67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.499935 Y: -7.5 Z: 67.50003 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.49993 Y: -7.5 Z: 67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49993 Y: -7.5 Z: 67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49992 Y: 7.5 Z: -67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.49993 Y: 7.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.499912 Y: 7.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.49994 Y: 7.5 Z: -67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.4999347 Y: 7.5 Z: -67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.500061 Y: 7.5 Z: -67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500067 Y: 7.5 Z: -67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.500065 Y: 7.5 Z: -67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.50007 Y: 7.5 Z: -67.49995 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50007 Y: 7.5 Z: -67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49994 Y: 7.5 Z: -52.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50005 Y: 7.5 Z: -52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49996 Y: 7.5 Z: -37.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50004 Y: 7.5 Z: -37.49993 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49997 Y: 7.5 Z: -22.500076 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50002 Y: 7.5 Z: -22.499931 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49999 Y: 7.5 Z: -7.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50001 Y: 7.5 Z: -7.499933 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50001 Y: 7.5 Z: 7.4999294 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49999 Y: 7.5 Z: 7.5000677 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50002 Y: 7.5 Z: 22.499935 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49998 Y: 7.5 Z: 22.500067 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50004 Y: 7.5 Z: 37.499924 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49996 Y: 7.5 Z: 37.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50005 Y: 7.5 Z: 52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49995 Y: 7.5 Z: 52.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.500072 Y: 7.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50007 Y: 7.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.50007 Y: 7.5 Z: 67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500072 Y: 7.5 Z: 67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.500067 Y: 7.5 Z: 67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.4999323 Y: 7.5 Z: 67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.499937 Y: 7.5 Z: 67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.499935 Y: 7.5 Z: 67.50003 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.49993 Y: 7.5 Z: 67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49993 Y: 7.5 Z: 67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49992 Y: 22.5 Z: -67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.499912 Y: 22.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.49993 Y: 22.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.49994 Y: 22.5 Z: -67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.4999347 Y: 22.5 Z: -67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.500061 Y: 22.5 Z: -67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500067 Y: 22.5 Z: -67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.500065 Y: 22.5 Z: -67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.50007 Y: 22.5 Z: -67.49995 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50007 Y: 22.5 Z: -67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49994 Y: 22.5 Z: -52.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50005 Y: 22.5 Z: -52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49996 Y: 22.5 Z: -37.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50004 Y: 22.5 Z: -37.49993 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49997 Y: 22.5 Z: -22.500076 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50002 Y: 22.5 Z: -22.499931 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49999 Y: 22.5 Z: -7.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50001 Y: 22.5 Z: -7.499933 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50001 Y: 22.5 Z: 7.4999294 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49999 Y: 22.5 Z: 7.5000677 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50002 Y: 22.5 Z: 22.499935 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49998 Y: 22.5 Z: 22.500067 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50004 Y: 22.5 Z: 37.499924 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49996 Y: 22.5 Z: 37.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50005 Y: 22.5 Z: 52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49995 Y: 22.5 Z: 52.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50007 Y: 22.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.500072 Y: 22.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.50007 Y: 22.5 Z: 67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500072 Y: 22.5 Z: 67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.500067 Y: 22.5 Z: 67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.4999323 Y: 22.5 Z: 67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.499937 Y: 22.5 Z: 67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.499935 Y: 22.5 Z: 67.50003 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.49993 Y: 22.5 Z: 67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49993 Y: 22.5 Z: 67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49992 Y: 37.5 Z: -67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.499912 Y: 37.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.49993 Y: 37.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.49994 Y: 37.5 Z: -67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.4999347 Y: 37.5 Z: -67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.500061 Y: 37.5 Z: -67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500067 Y: 37.5 Z: -67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.500065 Y: 37.5 Z: -67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.50007 Y: 37.5 Z: -67.49995 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50007 Y: 37.5 Z: -67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49994 Y: 37.5 Z: -52.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50005 Y: 37.5 Z: -52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49996 Y: 37.5 Z: -37.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50004 Y: 37.5 Z: -37.49993 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49997 Y: 37.5 Z: -22.500076 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50002 Y: 37.5 Z: -22.499931 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49999 Y: 37.5 Z: -7.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50001 Y: 37.5 Z: -7.499933 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50001 Y: 37.5 Z: 7.4999294 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49999 Y: 37.5 Z: 7.5000677 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50002 Y: 37.5 Z: 22.499935 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49998 Y: 37.5 Z: 22.500067 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50004 Y: 37.5 Z: 37.499924 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49996 Y: 37.5 Z: 37.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50005 Y: 37.5 Z: 52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49995 Y: 37.5 Z: 52.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50007 Y: 37.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.500072 Y: 37.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.50007 Y: 37.5 Z: 67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500072 Y: 37.5 Z: 67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.500067 Y: 37.5 Z: 67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.4999323 Y: 37.5 Z: 67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.499937 Y: 37.5 Z: 67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.499935 Y: 37.5 Z: 67.50003 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.49993 Y: 37.5 Z: 67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49993 Y: 37.5 Z: 67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49992 Y: 52.5 Z: -67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.499912 Y: 52.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.49993 Y: 52.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.49994 Y: 52.5 Z: -67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.4999347 Y: 52.5 Z: -67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.500061 Y: 52.5 Z: -67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500067 Y: 52.5 Z: -67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.500065 Y: 52.5 Z: -67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.50007 Y: 52.5 Z: -67.49995 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50007 Y: 52.5 Z: -67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49994 Y: 52.5 Z: -52.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50005 Y: 52.5 Z: -52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49996 Y: 52.5 Z: -37.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50004 Y: 52.5 Z: -37.49993 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49997 Y: 52.5 Z: -22.500076 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50002 Y: 52.5 Z: -22.499931 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49999 Y: 52.5 Z: -7.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50001 Y: 52.5 Z: -7.499933 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50001 Y: 52.5 Z: 7.4999294 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49999 Y: 52.5 Z: 7.5000677 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50002 Y: 52.5 Z: 22.499935 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49998 Y: 52.5 Z: 22.500067 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50004 Y: 52.5 Z: 37.499924 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49996 Y: 52.5 Z: 37.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50005 Y: 52.5 Z: 52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49995 Y: 52.5 Z: 52.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.500072 Y: 52.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50007 Y: 52.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.50007 Y: 52.5 Z: 67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500072 Y: 52.5 Z: 67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.500067 Y: 52.5 Z: 67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.4999323 Y: 52.5 Z: 67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.499937 Y: 52.5 Z: 67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.499935 Y: 52.5 Z: 67.50003 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.49993 Y: 52.5 Z: 67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49993 Y: 52.5 Z: 67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49992 Y: 67.5 Z: -67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.49993 Y: 67.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.499912 Y: 67.5 Z: -67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.49994 Y: 67.5 Z: -67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.4999347 Y: 67.5 Z: -67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.500061 Y: 67.5 Z: -67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500067 Y: 67.5 Z: -67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.500065 Y: 67.5 Z: -67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.50007 Y: 67.5 Z: -67.49995 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50007 Y: 67.5 Z: -67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49994 Y: 67.5 Z: -52.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.499943 Y: 67.5 Z: -52.50006 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.49994 Y: 67.5 Z: -52.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.499958 Y: 67.5 Z: -52.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.499957 Y: 67.5 Z: -52.500008 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.500049 Y: 67.5 Z: -52.499992 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500051 Y: 67.5 Z: -52.499977 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.500053 Y: 67.5 Z: -52.499966 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.500053 Y: 67.5 Z: -52.49995 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50005 Y: 67.5 Z: -52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49996 Y: 67.5 Z: -37.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.49996 Y: 67.5 Z: -37.500057 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.499958 Y: 67.5 Z: -37.500042 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.499968 Y: 67.5 Z: -37.50002 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.4999547 Y: 67.5 Z: -37.500008 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.500034 Y: 67.5 Z: -37.499992 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500038 Y: 67.5 Z: -37.499977 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.50004 Y: 67.5 Z: -37.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.50004 Y: 67.5 Z: -37.49995 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50004 Y: 67.5 Z: -37.49993 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49997 Y: 67.5 Z: -22.500076 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.499977 Y: 67.5 Z: -22.500051 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.499973 Y: 67.5 Z: -22.500042 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.499975 Y: 67.5 Z: -22.500025 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.4999804 Y: 67.5 Z: -22.500008 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.5000224 Y: 67.5 Z: -22.499992 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500023 Y: 67.5 Z: -22.499977 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.500023 Y: 67.5 Z: -22.499964 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.500023 Y: 67.5 Z: -22.499947 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50002 Y: 67.5 Z: -22.499931 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.49999 Y: 67.5 Z: -7.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.499992 Y: 67.5 Z: -7.50005 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.499992 Y: 67.5 Z: -7.500039 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.499992 Y: 67.5 Z: -7.5000257 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.4999914 Y: 67.5 Z: -7.5000086 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.5000076 Y: 67.5 Z: -7.4999924 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.500008 Y: 67.5 Z: -7.499977 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.500008 Y: 67.5 Z: -7.4999623 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.500008 Y: 67.5 Z: -7.499948 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.50001 Y: 67.5 Z: -7.499933 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50001 Y: 67.5 Z: 7.4999294 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.500008 Y: 67.5 Z: 7.4999404 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.500008 Y: 67.5 Z: 7.499961 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500008 Y: 67.5 Z: 7.4999785 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.500007 Y: 67.5 Z: 7.499993 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.4999924 Y: 67.5 Z: 7.5000076 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.499992 Y: 67.5 Z: 7.500023 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.499992 Y: 67.5 Z: 7.500037 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.499992 Y: 67.5 Z: 7.500053 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49999 Y: 67.5 Z: 7.5000677 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50002 Y: 67.5 Z: 22.499935 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.500023 Y: 67.5 Z: 22.499943 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.500023 Y: 67.5 Z: 22.499964 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500021 Y: 67.5 Z: 22.499979 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.5000243 Y: 67.5 Z: 22.499992 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.4999795 Y: 67.5 Z: 22.500008 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.499977 Y: 67.5 Z: 22.500023 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.499977 Y: 67.5 Z: 22.500038 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.499977 Y: 67.5 Z: 22.500053 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49998 Y: 67.5 Z: 22.500067 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50004 Y: 67.5 Z: 37.499924 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.50004 Y: 67.5 Z: 37.499947 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.500034 Y: 67.5 Z: 37.499966 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500046 Y: 67.5 Z: 37.499973 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.500037 Y: 67.5 Z: 37.499992 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.4999623 Y: 67.5 Z: 37.500008 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.499966 Y: 67.5 Z: 37.500023 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.49996 Y: 67.5 Z: 37.50004 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.49996 Y: 67.5 Z: 37.500053 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49996 Y: 67.5 Z: 37.50007 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50005 Y: 67.5 Z: 52.499928 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.500053 Y: 67.5 Z: 52.49995 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.50005 Y: 67.5 Z: 52.499966 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500055 Y: 67.5 Z: 52.499977 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.500054 Y: 67.5 Z: 52.499992 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.499949 Y: 67.5 Z: 52.500008 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.49995 Y: 67.5 Z: 52.50002 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.499947 Y: 67.5 Z: 52.50004 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.499947 Y: 67.5 Z: 52.500057 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49995 Y: 67.5 Z: 52.500065 size: 15.0
+is lit up by all lights
+Cube: Center: X: -52.500072 Y: 67.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -67.50007 Y: 67.5 Z: 67.49994 size: 15.0
+is lit up by all lights
+Cube: Center: X: -37.50007 Y: 67.5 Z: 67.49996 size: 15.0
+is lit up by all lights
+Cube: Center: X: -22.500072 Y: 67.5 Z: 67.49998 size: 15.0
+is lit up by all lights
+Cube: Center: X: -7.500067 Y: 67.5 Z: 67.49999 size: 15.0
+is lit up by all lights
+Cube: Center: X: 7.4999323 Y: 67.5 Z: 67.50001 size: 15.0
+is lit up by all lights
+Cube: Center: X: 22.499937 Y: 67.5 Z: 67.500015 size: 15.0
+is lit up by all lights
+Cube: Center: X: 37.499935 Y: 67.5 Z: 67.50003 size: 15.0
+is lit up by all lights
+Cube: Center: X: 52.49993 Y: 67.5 Z: 67.500046 size: 15.0
+is lit up by all lights
+Cube: Center: X: 67.49993 Y: 67.5 Z: 67.50008 size: 15.0
+is lit up by all lights
+Cube: Center: X: 200.0 Y: 300.0 Z: 2.0E-4 size: 2.0
+is lit up by all lights
+Your initial FPS is: 4.20
+This FPS is much lower than your actual FPS
